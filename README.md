@@ -88,7 +88,6 @@ https://www.quora.com/What-is-serverless-computing
 * [OpenComponents](https://github.com/opentable/oc) - Serverless microservices for front-end components
 * <s>[Kloudbit](http://www.kloudbit.com/)</s> - Kloudbit helps developers build robust applications without the hassle of backend coding and server management.
 * [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) - OpenFaaS Cloud: multi-user serverless functions driven by git
-* [Stackery](https://www.stackery.io/) - Stackery enables teams of developers to design, deploy, and monitor their serverless infrastructure on cloud services providers like AWS
 * [Algorithmia](https://algorithmia.com/) - Automating the use of AI/ML models at every scale with the Serverless AI Layer.
 * [TriggerMesh](https://www.triggermesh.com) - Serverless Management Platform with advanced event triggers
 
@@ -153,6 +152,7 @@ https://www.quora.com/What-is-serverless-computing
 ### CI/CD
 
 * [seed.run](https://seed.run) - Seed manages pipelines, configures environments, and monitors deployments for Serverless Framework projects.
+* [Stackery](https://www.stackery.io/) - Stackery enables teams of developers to design, deploy, configure and manage enviornments, and monitor their serverless apps on AWS. Standalone CI/CD or integrates with existing tools.
 * [AWS Lambda Test Runner](https://github.com/automatictester/lambda-test-runner) - Run your unit tests with Maven or SBT directly on AWS Lambda.
 
 ### Cost calculators
